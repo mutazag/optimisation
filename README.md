@@ -1,2 +1,2 @@
 # optimisation
-Working on Linear Programming and optimisation using LINDO and Python
+Working on Linear Programming and optimisation using LINGO and Python
